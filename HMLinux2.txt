@@ -1,0 +1,7 @@
+   0 mkdir /home/user/ /home/user/start /opt/task/
+   1 vi /home/user/start/1.txt
+   2 date >>1.txt
+   3 cp /home/user/start/1.txt /opt/task/start.txt
+   4 tree /home/
+   5 tree /opt
+   6 history > history.txt
